@@ -1,2 +1,2 @@
 # ShotZombieMiniGame-in-WindowsForms
-用C#模仿ShotZombie小遊戲
+用C# WindowsForms模仿ShotZombie小遊戲
